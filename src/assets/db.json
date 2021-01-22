@@ -1,0 +1,26 @@
+{
+    "data": [
+        {
+            
+            "Name": "Shizuka",
+             "Age": 10,
+              "EmailId": "shkA@KJKN"
+            },{
+            
+                "Name": "shik",
+                 "Age": 10,
+                  "EmailId": "asd@gmailcom"
+                },{
+            
+                    "Name": "ramlin",
+                     "Age": 10,
+                      "EmailId": "ramlin@gmail.com"
+                    },{
+            
+                        "Name": "Semarin",
+                         "Age": 10,
+                          "EmailId": "semarin@gmail.com"
+                        }
+       
+    ]
+}
